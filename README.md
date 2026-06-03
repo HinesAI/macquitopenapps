@@ -162,9 +162,9 @@ AppleScript behavior.
 - Save work before manual testing.
 - Review the script before installing.
 - Keep a Terminal window available the first time you test.
-- If you depend on apps reopening after login, add them to `EXCLUDED_APPS` or do
+- If you depend on apps reopening after login, add them to `EXCLUDED_APPS` or do not use this helper.
 
 ## Attribution
 
 Created by HinesAI.
-  not use this helper.
+
