@@ -163,4 +163,8 @@ AppleScript behavior.
 - Review the script before installing.
 - Keep a Terminal window available the first time you test.
 - If you depend on apps reopening after login, add them to `EXCLUDED_APPS` or do
+
+## Attribution
+
+Created by HinesAI.
   not use this helper.
